@@ -10,7 +10,6 @@ export const config = {
   APP_SECRET: "71a865ff5110eaa72dc0f769b626e4eb",
 
   USERS: ["o6Jhv5y4AR1gbsIhYR2THnpCdj9g"]
-    {
       // 想要发送的人的名字
       name: "程砚霸总",
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
